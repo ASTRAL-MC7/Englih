@@ -41,11 +41,11 @@ bot.command('start', async (ctx) => {
     }
 
     // Send welcome message
-    const welcomeText = `🎉 Salom, ${telegramUser.first_name || 'Dostum'}!
+    const welcomeText = `🎉 Salom, ${telegramUser.first_name || 'Dostim'}!
 
 👋 Konkursimizga xush kelibsiz!
 
-Pul yoki xarch qimasdan, shu 3 ta kanalga qo'shil va pul tekin olish imkoni haqida bilib ol:
+Pul yoki xarch qimasdan, shu 3 ta kanalga qo'shil va kurs tekin olish imkoni haqida bilib ol:
 
 🏆 Bugun 5 do'stingni taklif qil va REWARD TANLASH IMKONI HAQIDA MALUMOT OL!
 
