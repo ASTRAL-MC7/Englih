@@ -1,0 +1,8 @@
+{
+  "name": "Helpful English",
+  "description": "Zamonaviy va chiroyli so'zlar, slenglar, iboralar, qisqartmalar va IELTS 8+ darajasidagi 'cool' muqobillar o'rganish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
